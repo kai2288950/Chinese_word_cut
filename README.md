@@ -1,2 +1,2 @@
 # Chinese_word_cut
-word cut
+# This is a personal code of Chinese word recognized competition
